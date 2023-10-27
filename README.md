@@ -4,6 +4,7 @@
 
 <img align="right" width=26% src="saitama.gif"/>
 &nbsp;
+&nbsp;
 
 🖥 Junior Full Stack Developer.<br/>
 📚 Bachelor Computer Engineering.<br/>
@@ -11,12 +12,13 @@
 📍 &nbsp; I live in Poços de Caldas, Minas Gerais, Brazil.<br/>
 
 &nbsp;
+&nbsp;
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=joaohenriquefernandes&show_icons=true&count_private=true&hide_border=true&title_color=241C59&icon_color=241C59&text_color=ECE4F2&bg_color=8980BF" alt="Joao Henrique Fernandes github stats" /> 
-  <img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaohenriquefernandes&layout=compact&hide_border=true&title_color=241C59&text_color=ECE4F2&bg_color=8980BF" />
-  <img width="90%" height="195px" src="https://github-readme-streak-stats.herokuapp.com?user=joaohenriquefernandes&theme=monokai&hide_border=true&background=8980BF&stroke=0E0A26&ring=6524A6&fire=EB5454&currStreakNum=241C59&sideNums=241C59&currStreakLabel=6524A6&sideLabels=6524A6&dates=ECE4F2" alt="GitHub Streak" />
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaohenriquefernandes&layout=compact&hide_border=true&title_color=241C59&text_color=ECE4F2&bg_color=8980BF" />
 </div>
+  <img align="center" width=90% height="195px" src="https://github-readme-streak-stats.herokuapp.com?user=joaohenriquefernandes&theme=monokai&hide_border=true&background=8980BF&stroke=0E0A26&ring=6524A6&fire=EB5454&currStreakNum=241C59&sideNums=241C59&currStreakLabel=6524A6&sideLabels=6524A6&dates=ECE4F2" alt="GitHub Streak" />
 
 &nbsp;
 
