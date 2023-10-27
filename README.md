@@ -2,14 +2,13 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ECE4F2&size=35&center=true&vCenter=true&width=1000&lines=HI,+My+name+is+Joao+Henrique+Fernandes;I'm+25+years+old;I'm+from+Brazil;Be+Welcome!+😁🤘)](https://git.io/typing-svg)
 
+<img align="right" width=26% src="saitama.gif"/>
 &nbsp;
 
-<div align="left">
-  🖥 Junior Full Stack Developer.<br/>
-  📚 Bachelor Computer Engineering.<br/>
-  📚 Bachelor Science and Tecnology.<br/>
-  📍 &nbsp I live in Poços de Caldas, Minas Gerais, Brazil.<br/>
-</div>
+🖥 Junior Full Stack Developer.<br/>
+📚 Bachelor Computer Engineering.<br/>
+📚 Bachelor Science and Tecnology.<br/>
+📍 &nbsp I live in Poços de Caldas, Minas Gerais, Brazil.<br/>
 
 &nbsp;
 
