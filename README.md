@@ -74,7 +74,6 @@ Sou apaixonado por aprender coisas novas, por contribuir com comunidades tech e 
 </table>
 
 ---
-<br>
 
 ## 💼 Trajetória
 
@@ -92,13 +91,3 @@ Sou apaixonado por aprender coisas novas, por contribuir com comunidades tech e 
     <td>JavaScript, TypeScript, C#, Node.js, .NET, SQL e Git</td>
   </tr>
 </table>
-
----
-<br>
-
-> [!NOTE]
->
-> ❓ Você pode estar se perguntando o que é Livro XI de Vitruvius<br />
-> No século I a.C. um famoso arquiteto e engenheiro romano Marco Vitruvius Polião escreveu o tratado De Architectura.<br />
-> A obra é composta por 10 livros(ou volumes) que aborda tudo que os romanos achavam essencial para a prática da arquitetura.<br />
-> Na minha humilde opinião, se existisse uma décima primeira obra, seria sobre Arquitetura de Software.
